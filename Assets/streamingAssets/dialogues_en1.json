@@ -1,0 +1,13 @@
+{
+    "texts": [
+        { "id": 14, "text": "Hi there! I haven't seen you around before." },
+        { "id": 15, "text": "Hello! I'm new in town." },
+        { "id": 16, "text": "Welcome! How are you finding it so far?" },
+        { "id": 17, "text": "It's great! Everyone is so friendly." },
+        { "id": 18, "text": "Glad to hear that. If you need any help, let me know." },
+        { "id": 19, "text": "Thanks! Actually, could you recommend a good place to eat?" },
+        { "id": 20, "text": "Sure, there's a nice café down the street." },
+        { "id": 21, "text": "Perfect! I'll check it out. Thanks again!" }
+    ],
+    "endText": "The task is defined: go home."
+}

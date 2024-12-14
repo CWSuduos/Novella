@@ -1,0 +1,10 @@
+{
+    "translations": [
+        { "key": "PlayButton", "value": "Play" },
+        { "key": "SettingsButton", "value": "Settings" },
+        { "key": "ExitButton", "value": "Exit" },
+        { "key": "MusikVolume", "value": "Music Volume" },
+        { "key": "InputNameHoulder", "value": "Enter Name" },
+        { "key": "AboutAuthor", "value": "Author" }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "texts": [
+        { "id": 1, "text": "Hello, how are you?" },
+        { "id": 2, "text": "I'm fine, thank you!" },
+        { "id": 3, "text": "What are you doing today?" },
+        { "id": 4, "text": "I have a meeting later." },
+        { "id": 5, "text": "Sounds interesting. Good luck with that!" },
+        { "id": 6, "text": "Thank you! Do you have any plans?" },
+        { "id": 7, "text": "Just relaxing and reading a book." },
+        { "id": 8, "text": "That sounds nice. Enjoy your day!" }
+    ]
+}
